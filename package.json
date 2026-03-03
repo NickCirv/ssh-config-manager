@@ -1,0 +1,36 @@
+{
+  "name": "ssh-config-manager",
+  "version": "1.0.0",
+  "description": "Manage SSH config hosts. Add, edit, remove via TUI or CLI. Zero dependencies.",
+  "type": "module",
+  "bin": {
+    "ssh-config-manager": "./index.js",
+    "sshcm": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "ssh",
+    "config",
+    "devops",
+    "tui"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/ssh-config-manager.git"
+  },
+  "homepage": "https://github.com/NickCirv/ssh-config-manager#readme",
+  "bugs": {
+    "url": "https://github.com/NickCirv/ssh-config-manager/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
