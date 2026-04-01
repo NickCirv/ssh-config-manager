@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # ssh-config-manager
 
 > Manage SSH hosts. Add, edit, remove, and search via interactive TUI or CLI commands. Zero dependencies.
